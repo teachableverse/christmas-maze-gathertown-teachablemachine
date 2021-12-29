@@ -4,7 +4,7 @@ This verse is a space where you can enjoy the Christmas maze together online on 
 
 Gather Town is a place where you can create a map with a metaverse video conferencing platform and communicate with various activities and communication through avatars in that map. There are many cases where Gather Town is used as a playground, and one of them is to play a maze search game.
 
-![img](https://teachableverse.github.io/warehouse/2021-12-25-christmas-maze-gathertown-teachablemachine_play.git)
+![img](https://teachableverse.github.io/warehouse/2021-12-25-christmas-maze-gathertown-teachablemachine_play.gif)
 
 It is not recommended to find the maze directly through mouse control because it finds the path to the destination on its own through the pathfinding Algorithm. Like finding a maze made of wood or the like offline, it can be implemented on Gather Town similarly, and then you can play a maze game using a teachable machine to define the still, up/down, and left/right behavior.
 
