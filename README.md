@@ -1,2 +1,3 @@
-# christmas-maze-gathertown-teachablemachine
-This verse is a space where you can enjoy the Christmas maze together. This space was implemented on the gather town, and control definition is possible with the desired behavior through a teachable machine.
+# Christmas Maze on Gather Town using Teachable Machine
+
+This verse is a space where you can enjoy the Christmas maze together online on the gather town and  define the your desired behavior using the teachable machine.
