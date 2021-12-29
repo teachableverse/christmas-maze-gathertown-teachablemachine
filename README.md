@@ -6,7 +6,7 @@ Gather Town is a place where you can create a map with a metaverse video confere
 
 It is not recommended to find the maze directly through mouse control because it finds the path to the destination on its own through the pathfinding Algorithm. Like finding a maze made of wood or the like offline, it can be implemented on Gather Town similarly, and then you can play a maze game using a teachable machine to define the still, up/down, and left/right behavior.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/06PkLEtzNDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/06PkLEtzNDM/0.jpg)](https://youtu.be/06PkLEtzNDM?t=0s)
 
 ### Features
 * Multiple people can come online and play against each other.
